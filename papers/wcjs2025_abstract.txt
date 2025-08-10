@@ -1,0 +1,14 @@
+Revealing ink and parchment in Dead Sea Scroll images
+חשיפת דיו וקלף בתמונות מגילות ים המלח
+
+Abstract:
+
+The Dead Sea Scrolls, which include the oldest known biblical manuscripts, are invaluable for understanding the origins of the Hebrew Bible and early Judaism. To preserve these artifacts and improve their accessibility, the Israel Antiquities Authority (IAA) has digitized the scroll fragments using high-resolution multispectral imaging, capturing details often imperceptible to the naked eye.
+
+We present a novel computational method for segmenting ink and parchment regions in the IAA's high resolution images of the Dead Sea Scrolls. By employing advanced image processing algorithms on the multispectral images, our approach effectively differentiates between ink, parchment, rice paper supports, and background elements. This automated preprocessing significantly enhances the potential for paleographical analysis and the digital reconstruction of the Dead Sea Scrolls.
+
+Ink segmentation is particularly valuable for paleographical analysis by enabling the automatic alignment of transcriptions to images. Similarly, parchment segmentation plays a crucial role in developing digital scholarly editions. Accurate identification of parchment regions enables scholars to digitally align fragmented pieces and reconstruct the physical layout of the scrolls.
+
+Biography:
+
+Berat Kurar-Barakat is a postdoctoral researcher at the Blavatnik School of Computer Science, Tel Aviv University, mentored by Prof. Nachum Dershowitz. Her research focuses on historical document image processing, with expertise in areas such as document image segmentation, layout analysis, word spotting, handwritten word recognition, and computational paleography. 
